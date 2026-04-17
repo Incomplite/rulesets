@@ -1,0 +1,2 @@
+@echo off
+"Path\to\sing-box.exe" rule-set compile %*
